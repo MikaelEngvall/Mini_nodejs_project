@@ -1,0 +1,19 @@
+{
+  "name": "mini_nodejs_project",
+  "version": "1.0.0",
+  "description": "Reading a json file in order to populate a page of products",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MikaelEngvall/Mini_nodejs_project.git"
+  },
+  "author": "Mikael Engvall",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MikaelEngvall/Mini_nodejs_project/issues"
+  },
+  "homepage": "https://github.com/MikaelEngvall/Mini_nodejs_project#readme"
+}
